@@ -315,5 +315,8 @@ DEPENDENCIES
   kramdown-parser-gfm (= 1.1.0)
   webrick (= 1.7)
 
+RUBY VERSION
+   ruby 3.0.3p157
+
 BUNDLED WITH
    2.2.32
